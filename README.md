@@ -17,3 +17,6 @@ Contributors:
 
 Jo Carter - Principal Valuer - @jo_carter64
 Esko Reinikainen - Innovation Associate - @reinikainen
+Carl Morris - Helpful GitHub Ninja - @carlmorris
+Gareth King - Alpha Tester
+Scott - Alpha Tester
