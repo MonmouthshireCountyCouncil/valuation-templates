@@ -15,8 +15,8 @@ If anyone has the expertise to convert these (Microsoft format) spreadsheets int
 
 Contributors:
 
-Jo Carter - Principal Valuer - @jo_carter64
-Esko Reinikainen - Innovation Associate - @reinikainen
-Carl Morris - Helpful GitHub Ninja - @carlmorris
-Gareth King - Alpha Tester
-Scott - Alpha Tester
+Jo Carter - Principal Valuer - @jo_carter6   
+Esko Reinikainen - Innovation Associate - @reinikainen   
+Carl Morris - Helpful GitHub Ninja - @carlmorris    
+Gareth King - Alpha Tester    
+Scott - Alpha Tester    
